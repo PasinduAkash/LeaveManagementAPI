@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\bin\Debug\net8.0\LeaveManagement.Domain.deps.json
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\bin\Debug\net8.0\LeaveManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\bin\Debug\net8.0\LeaveManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\refint\LeaveManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\LeaveManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Domain\obj\Debug\net8.0\ref\LeaveManagement.Domain.dll

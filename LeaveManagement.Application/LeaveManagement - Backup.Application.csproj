@@ -1,0 +1,85 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\LeaveManagement.Application.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netstandard2.1\LeaveManagement.Application.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\netstandard2.1\LeaveManagement.Application.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\LeaveManagement.Application.deps.json" />
+    <Content Include="bin\Debug\netstandard2.1\LeaveManagement.Application.deps.json" />
+    <Content Include="obj\LeaveManagement.Application.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net8.0\LeaveManagement.Application.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\netstandard2.1\LeaveManagement.Application.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\LeaveManagement.Application.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\LeaveManagement.Application.dll" />
+    <None Include="bin\Debug\net8.0\LeaveManagement.Application.pdb" />
+    <None Include="bin\Debug\net8.0\LeaveManagement.Domain.dll" />
+    <None Include="bin\Debug\net8.0\LeaveManagement.Domain.pdb" />
+    <None Include="bin\Debug\netstandard2.1\LeaveManagement.Application.dll" />
+    <None Include="bin\Debug\netstandard2.1\LeaveManagement.Application.pdb" />
+    <None Include="bin\Debug\netstandard2.1\LeaveManagement.Domain.dll" />
+    <None Include="bin\Debug\netstandard2.1\LeaveManagement.Domain.pdb" />
+    <None Include="LeaveManagement.Application.csproj" />
+    <None Include="obj\LeaveManagement.Application.csproj.nuget.g.props" />
+    <None Include="obj\LeaveManagement.Application.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net8.0\CleanArc.03AFA812.Up2Date" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.assets.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.dll" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.pdb" />
+    <None Include="obj\Debug\net8.0\refint\LeaveManagement.Application.dll" />
+    <None Include="obj\Debug\net8.0\ref\LeaveManagement.Application.dll" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.assets.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.assets.cache" />
+    <None Include="obj\Debug\net8.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\netstandard2.1\CleanArc.03AFA812.Up2Date" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.assets.cache" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.dll" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\netstandard2.1\LeaveManagement.Application.pdb" />
+    <None Include="obj\LeaveManagement.Application.csproj.nuget.g.props" />
+    <None Include="obj\LeaveManagement.Application.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\netstandard2.1\LeaveManagement.Application.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\netstandard2.1\LeaveManagement.Application.assets.cache" />
+    <None Include="obj\Release\netstandard2.1\LeaveManagement.Application.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\netstandard2.1\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="bin\Release\netstandard2.1\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+  </ItemGroup>
+
+</Project>

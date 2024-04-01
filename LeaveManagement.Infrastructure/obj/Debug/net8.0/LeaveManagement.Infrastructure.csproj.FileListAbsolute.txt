@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Infrastructure.deps.json
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Application.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\bin\Debug\net8.0\LeaveManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveMan.E85E0878.Up2Date
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\refint\LeaveManagement.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\LeaveManagement.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Infrastructure\obj\Debug\net8.0\ref\LeaveManagement.Infrastructure.dll

@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\leavemanagement.client\obj\Debug\leavemanagement.client.esproj.CoreCompileInputs.cache

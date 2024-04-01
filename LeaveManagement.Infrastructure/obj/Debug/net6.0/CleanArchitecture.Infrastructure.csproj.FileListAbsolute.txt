@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArc.38F44B56.Up2Date
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll

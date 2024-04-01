@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\bin\Debug\net8.0\LeaveManagement.Application.deps.json
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\bin\Debug\net8.0\LeaveManagement.Application.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\bin\Debug\net8.0\LeaveManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\bin\Debug\net8.0\LeaveManagement.Domain.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\bin\Debug\net8.0\LeaveManagement.Domain.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveMan.11E40FD7.Up2Date
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\refint\LeaveManagement.Application.dll
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\LeaveManagement.Application.pdb
+C:\Users\Admin\Documents\Projects\CleanArchitecture\LeaveManagement\LeaveManagement.Application\obj\Debug\net8.0\ref\LeaveManagement.Application.dll

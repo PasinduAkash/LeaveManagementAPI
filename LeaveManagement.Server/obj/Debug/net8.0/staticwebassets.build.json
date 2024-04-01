@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "/L5Rjzupv0G+mkrbRvIwTPXjzz3Vhg2yEZNcXfsDCgs=",
+  "Source": "LeaveManagement.Server",
+  "BasePath": "_content/LeaveManagement.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Admin\\Documents\\Projects\\CleanArchitecture\\LeaveManagement\\leavemanagement.client\\leavemanagement.client.esproj",
+      "Version": 2,
+      "Source": "leavemanagement.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
